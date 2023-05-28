@@ -2,6 +2,7 @@
 # Site
 
 title: Hydra Template
+remote_theme: hydra
 url: "https://proud-alligator.cloudvent.net"
 baseurl:
 google_analytics_key:
